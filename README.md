@@ -27,9 +27,9 @@ Interfacing the programmed motors with an LCD screen to display the current move
 | I2C Module (PCF8574) | Communication | Used to simplify wiring between the Arduino and the LCD (essential for Task 2). |
 
 
-![Design](task1.png)
-![Design](task2.png)
-![Design](.png)
+![Design](img1.jpg)
+![Design](img2.jpg)
+![Design](img3.jpg)
 
 ## 🧠 Software Logic (Pseudocode/Flow)
 ### The code logic follows a sequential structure controlled by time delays:
