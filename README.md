@@ -26,6 +26,11 @@ Interfacing the programmed motors with an LCD screen to display the current move
 | LCD Display (16x2 or 20x4) | Output | Displays the synchronized status of the motor movements. |
 | I2C Module (PCF8574) | Communication | Used to simplify wiring between the Arduino and the LCD (essential for Task 2). |
 
+
+![Design](task1.png)
+![Design](task2.png)
+![Design](.png)
+
 ## 🧠 Software Logic (Pseudocode/Flow)
 ### The code logic follows a sequential structure controlled by time delays:
  * Initialization: Configure L298N control pins and initialize the I2C LCD.
